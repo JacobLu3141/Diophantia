@@ -1,2 +1,2 @@
 # Diophantia
-number theory project
+cli-based number theory project, just run main.cpp
